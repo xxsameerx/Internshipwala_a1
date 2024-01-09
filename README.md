@@ -3,6 +3,10 @@
 ## Overview
 
 This is a simple website for InternshipWala Career, providing information about courses and contact details.
+![image](https://github.com/xxsameerx/Internshipwala_a1/assets/108549299/3f906c22-4e98-4109-a52a-4061c30f9a9d)
+![image](https://github.com/xxsameerx/Internshipwala_a1/assets/108549299/5582ba9b-af01-4bac-b905-309ba2ed3f2f)
+![Uploading image.png…]()
+
 
 ## Files and Structure
 
